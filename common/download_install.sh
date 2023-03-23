@@ -11,7 +11,7 @@ fi
 
 echo "we are going to download needed files:)"
 GITHUB_REPOSITORY=hiddify-config
-GITHUB_USER=hiddify
+GITHUB_USER=b19880626
 GITHUB_BRANCH_OR_TAG=main
 
 # if [ ! -d "/opt/$GITHUB_REPOSITORY" ];then
